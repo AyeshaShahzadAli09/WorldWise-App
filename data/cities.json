@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🍁",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "29a7",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-09-21T16:45:26.244Z",
+      "notes": "",
+      "position": {
+        "lat": "39.990010223513195",
+        "lng": "39.98834609985352"
+      }
+    }
+  ]
+}
